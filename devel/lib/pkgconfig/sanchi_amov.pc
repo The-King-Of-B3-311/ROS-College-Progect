@@ -1,0 +1,8 @@
+prefix=/home/minking/catkin_ws/devel
+
+Name: sanchi_amov
+Description: Description of sanchi_amov
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/minking/catkin_ws/devel/lib 
+Requires: 
